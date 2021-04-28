@@ -13,7 +13,7 @@
         <p3>
           Очень нежный бисквит с португальскими корнями. В Японии его называют Касутера (Kasutera). Пирожное, покрытое характерной сахарной корочкой, имеет не совсем тот вкус, которого ждешь от бисквита. В составе этой японской сладости есть мед, пудра зеленого чая, особый сироп. Кастеллу легко увезти домой: ее, упакованную в узкие продолговатые коробочки, продают почти во всех супермаркетах.
           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B01.jpeg" alt="Фоточка Кастелла1" width="1156" height="760">
-          <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B02.gif" alt="Фоточка Кастелла2" width="800" height="365"> </p3>
+          <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B02.gif" alt="Фоточка Кастелла2" width="640" height="365"> </p3>
         <h3>
         Сакура-моти 
         </h3>
