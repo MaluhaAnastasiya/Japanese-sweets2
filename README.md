@@ -31,7 +31,8 @@
     <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BD%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D1%80%D0%B81.jpg" alt="Фоточка Нэрикири1 " width="640" height="365">
     <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BD%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D1%80%D0%B82.jpg" alt="Фоточка Нэрикири2 " width="640" height="365">
     <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BD%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D1%80%D0%B83.jpeg" alt="Фоточка Нэрикири3 " width="640" height="365">
-    <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BD%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D1%80%D0%B84.jpg" alt="Фоточка Нэрикири4" width="640" height="365"></p6>
+    <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BD%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D1%80%D0%B84.jpg" alt="Фоточка Нэрикири4" width="640" height="365">
+    <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets" alt="" width="640" height="365"></p6>
   </body>
   <footer>
   Малуха Анастасия 9Б
